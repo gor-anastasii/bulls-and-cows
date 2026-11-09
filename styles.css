@@ -69,6 +69,7 @@ body {
   opacity: 0.55;
   animation-delay: -12s;
 }
+
 @keyframes float {
   0%,
   100% {
